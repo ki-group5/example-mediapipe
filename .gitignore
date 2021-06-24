@@ -52,3 +52,8 @@ wheels/
 
 # VSCode
 .vscode/
+/.vs/example-mediapipe/v16/.suo
+/.vs/ProjectSettings.json
+/.vs/PythonSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
